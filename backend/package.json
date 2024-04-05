@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/speech": "^6.3.0",
+    "fastapi": "^0.0.8",
+    "node-record-lpcm16": "git+https://github.com/endoplasmic/node-record-lpcm16.git",
+    "sox": "^0.1.0"
+  }
+}
