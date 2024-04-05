@@ -1,4 +1,4 @@
-# interviewapp
+# InterView-App: Hackathon
 ## Inspiration
 The spark that ignited "InterView" was our collective realization of the pervasive issue of unconscious biases in recruitment processes. With the job market more saturated than ever, we recognized the critical need for tools that not only help candidates but also empower recruiters to refine their interviewing skills. Inspired by the vision of equitable hiring practices, we set out to develop a tool that could address these biases head-on, ensuring every candidate has a fair chance based on their skills and potential.
 ## What it does
